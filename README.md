@@ -33,12 +33,13 @@ There's an included Vagrantfile that allows quick testing of the built Vagrant b
 
 ## Connecting the box (VirtualBox)
 
-   $ vagrant ssh virtualbox
+Connecting via ssh
+  
+    $ vagrant ssh virtualbox
 
-## All credit for
+## All creditis for
 
 https://www.jeffgeerling.com/blog/server-vm-images-ansible-and-packer
-
 
 ## License
 
