@@ -37,7 +37,7 @@ Connecting via ssh
   
     $ vagrant ssh virtualbox
 
-## All creditis for
+## All credits for
 
 https://www.jeffgeerling.com/blog/server-vm-images-ansible-and-packer
 
