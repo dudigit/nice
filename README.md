@@ -1,4 +1,4 @@
-## Nice company - dev-ops exercise
+## Nice (company) home dev-ops exercise
 
  
 
