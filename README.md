@@ -1,3 +1,51 @@
+Here is the dev-ops exercise
+
+ 
+
+please use the following tools to implement –
+
+ 
+
+·         Virtual box, packer, ansible, red-hat
+
+ 
+
+Requirements –
+
+ 
+
+·         OS level requirements
+
+o   SELinux disabled
+
+o   IPv6 disabled
+
+ 
+
+·         Create a Jenkins master server template for installation.
+
+o   The server should be installed with java8 and latest Jenkins
+
+o   Plugins should be also pre-installed, here are the list -
+
+§  Blue-ocean, ldap, git, maven-release
+
+o   The master should include apache-maven for java compilation
+
+o   The master should include git client installation (latest version)
+
+·         Monitoring
+
+o   Install grafana for monitoring Jenkins health and executors or build durations
+
+ 
+
+You should use packer for template, ansible / bash / python for configuration and red-hat as OS.
+
+The outcome should be code that implements the requirements. 
+
+
+
 This example build configuration installs and configures CentOS 7 x86_64 minimal using Ansible, and then generates two Vagrant box files, for:
 
   - VirtualBox
